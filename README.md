@@ -70,7 +70,7 @@ Full Stack Developer | Building delightful experiences with code with a passion 
 
 #### Consistent Contribution Record
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ach-Raz&theme=dark&style=for-the-badge" alt="Commit Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ach-Raz&theme=material&border_radius=10&style=for-the-badge" alt="Commit Streak"/>
 </p>
 
 ## Connect With Me!
